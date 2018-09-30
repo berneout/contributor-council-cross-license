@@ -167,10 +167,10 @@ project, and granted a license for them to the public.
 A "major contributor" is a contributor meeting any of these
 criteria:
 
-1.  The contributor made the first contribution to the
-    project.
+1.  The contributor made the first contribution of source
+    code to the project.
 
-2.  The contributor has held the highest, publicly
+2.  The contributor has held the highest publicly
     acknowledged elected or appointed-successor leadership
     position for the project, if there is such a position.
 
