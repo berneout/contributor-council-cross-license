@@ -1,6 +1,6 @@
 # The Contributor Council License
 
-Project Location: {{{uri}}}
+Project Location: {{{URI}}}
 
 This license gives contributors the ability to vote to
 license the project to the public on different terms.
@@ -56,7 +56,7 @@ project under the Contributor Council License.
 
 Project to be licensed:
 
-  {{{uri}}}
+  {{{URI}}}
 
 New public license terms:
 
@@ -70,14 +70,14 @@ Effect of relicensing:
 If you approve, please respond to this e-mail as soon as
 possible with the following message:
 
-  I accept your proposal to relicense {{{uri}}}.
+  I accept your proposal to relicense {{{URI}}}.
 
   I give you permission to publish this message.
 
 If you do not approve, please respond to this e-mail as soon
 as possible with the following message:
 
-  I reject your proposal to relicense {{{uri}}}.
+  I reject your proposal to relicense {{{URI}}}.
 
   I give you permission to publish this message.
 ```
@@ -94,7 +94,7 @@ under the Contributor Council License.
 
 Project licensed:
 
-  {{{uri}}}
+  {{{URI}}}
 
 New public license terms:
 
