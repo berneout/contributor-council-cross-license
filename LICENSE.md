@@ -15,7 +15,8 @@ public, any number of times, under the following rules.
 
 ## Effect
 
-The effect of sublicensing must be one or more of:
+A contributor can sublicense for any of these purposes with
+majority approval:
 
 1.  Make the project available on a newer version of its
     original public license terms, published by the
@@ -28,19 +29,32 @@ The effect of sublicensing must be one or more of:
     resulting from new statutory, regulatory, or judicial
     developments.
 
+A contributor can sublicense for any other purpose with
+supermajority approval.
+
 ## Approval
 
-In order to sublicense to the public on different terms, a
-contributor must:
+In order to sublicense to the public, a contributor must
+meet all of these requirements:
 
-1.  Receive and publish approvals from at least two thirds
-    of all responding contributors, dated within a single
-    period of thirty contiguous calendar days.
+1.  Publish responses showing approval by all responding
+    contributors.
 
-2.  Receive and publish approvals from at least two thirds
-    of all responding major contributors.
+2.  Publish responses showing approval by responding major
+    contributors.
 
 3.  Announce the result to all contributors.
+
+For majority approval, a majority of all responding
+contributors and a majority of responding major contributors
+must approve.
+
+For supermajority approval, two thirds of all responding
+contributors and two thirds of all responding major
+contributors must approve.
+
+All responses published to show approval must be dated
+within a period of thirty contiguous calendar days.
 
 To solicit approvals, send each contributor a message on the
 following form, to all the e-mail addresses they provided
