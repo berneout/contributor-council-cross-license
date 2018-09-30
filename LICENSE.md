@@ -162,7 +162,7 @@ the contributor's copyright and other attribution notices.
 
 A "contributor" is an individual or legal entity that has
 contributed source code or source code changes to the
-project under public license.
+project, and granted a license for them to the public.
 
 A "major contributor" is a contributor meeting any of these
 criteria:
