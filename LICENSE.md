@@ -63,11 +63,16 @@ Effect of relicensing:
 If you approve, please respond to this e-mail as soon as
 possible with the following message:
 
-  I approve your proposal to relicense {{{uri}}}.
+  I accept your proposal to relicense {{{uri}}}.
 
-  You may publish this message online, to document that
-	you have met the requirements of the Contributor
-	Council License.
+  I give you permission to publish this message.
+
+If you do not approve, please respond to this e-mail as soon
+as possible with the following message:
+
+  I reject your proposal to relicense {{{uri}}}.
+
+  I give you permission to publish this message.
 ```
 
 ## Limit Liability
