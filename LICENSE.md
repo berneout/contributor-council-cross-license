@@ -31,9 +31,16 @@ The effect of sublicensing must be one or more of:
 ## Approval
 
 In order to sublicense to the public on different terms, a
-contributor must receive and publish approvals from at least
-two thirds of all available contributors, as well as at
-least two thirds of all available major contributors.
+contributor must:
+
+1.  Receive and publish approvals from at least two thirds
+    of all responding contributors, dated within a single
+    period of thirty contiguous calendar days.
+
+2.  Receive and publish approvals from at least two thirds
+    of all responding major contributors.
+
+3.  Announce the result to all contributors.
 
 To solicit approvals, send each contributor a message on the
 following form, to all the e-mail addresses they provided
