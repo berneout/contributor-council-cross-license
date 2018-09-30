@@ -147,8 +147,8 @@ criteria:
     project.
 
 2.  The contributor has held the highest, publicly
-    acknowledged leadership position for the project, if
-    there is such a position.
+    acknowledged elected or appointed-successor leadership
+    position for the project, if there is such a position.
 
 The "project" is the software project published at the
 location listed above.  The project does not include
