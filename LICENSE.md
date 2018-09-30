@@ -57,10 +57,10 @@ All responses published to show approval must be dated
 within a period of thirty contiguous calendar days.
 
 To solicit approvals, send each contributor a message on the
-following form, to all the e-mail addresses they provided
-with their contributions, such as revision control commit
-messages or patches to files listing contributors, as well
-as any social media handles they used to contribute:
+following template, to all the e-mail addresses they
+provided with their contributions, such as revision control
+commit messages or patches to files listing contributors, as
+well as any social media handles they used to contribute:
 
 ```
 Subject: Contributor Council Proposal
@@ -101,7 +101,7 @@ as possible with the following message:
 ```
 
 To announce a result, send each contributor a message on the
-following form, again to all e-mail addresses and social
+following template, again to all e-mail addresses and social
 media handles:
 
 ```
