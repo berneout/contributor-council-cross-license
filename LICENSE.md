@@ -6,7 +6,7 @@ This license gives contributors the ability to vote to relicense this software p
 
 Each contributor to this project grants an irrevocable license for copyright in all their contributions, as well as an irrevocable license for any patent claims they can license that cover the project as of their latest contribution, to every other past and future contributor.  Those licenses permit sublicensing to the public, or _relicensing_, any number of times, under the following rules.
 
-## Effects and Approvals Needed
+## Approval Needed
 
 A contributor can relicense as follows with majority approval:
 
@@ -18,7 +18,7 @@ A contributor can relicense as follows with majority approval:
 
 A contributor can relicense for any other purpose with supermajority approval.
 
-## Approval
+## Approval Process
 
 In order to relicense, a contributor must meet all of the following requirements:
 
