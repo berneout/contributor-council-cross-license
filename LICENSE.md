@@ -3,7 +3,7 @@
 Project Location: {{{URI}}}
 
 This license gives contributors the ability to vote to
-license the project to the public on different terms.
+relicense the project to the public on different terms.
 
 Each contributor to this software project grants an
 irrevocable license for copyright in all their
