@@ -62,89 +62,90 @@ provided with their contributions, such as revision control
 commit messages or patches to files listing contributors, as
 well as any social media handles they used to contribute:
 
-```
-Subject: Contributor Council Proposal
-
-This is a proposal to relicense a software project under the
-Contributor Council License.
-
-Project:
-
-  {{{URI}}}
-
-New Public License Terms:
-
-  [Insert new public license terms.]
-
-Effect of Relicensing:
-
-  [Describe the effect of relicensing, and which of the
-  categories under the Effect section will be achieved.]
-
-Approval Needed:
-
-  ["Majority" or "Supermajority"]
-
-If you approve, please respond to this e-mail as soon as
-possible with the following message:
-
-  I accept your proposal to relicense {{{URI}}}.
-
-  I give you permission to publish this message.
-
-If you do not approve, please respond to this e-mail as soon
-as possible with the following message:
-
-  I reject your proposal to relicense {{{URI}}}.
-
-  I give you permission to publish this message.
-```
+> Subject: Contributor Council Proposal
+> 
+> This is a proposal to relicense a software project under
+> the Contributor Council License.
+> 
+> Project:
+> 
+>   {{{URI}}}
+> 
+> New Public License Terms:
+> 
+>   [Insert new public license terms.]
+> 
+> Effect of Relicensing:
+> 
+>   [Describe the effect of relicensing, and which of the
+>   categories under the Effect section will be achieved.]
+> 
+> Approval Needed:
+> 
+>   ["Majority" or "Supermajority"]
+> 
+> If you approve, please respond to this e-mail as soon as
+> possible with the following message:
+> 
+>   I accept your proposal to relicense {{{URI}}}.
+> 
+>   I give you permission to publish this message.
+> 
+> If you do not approve, please respond to this e-mail as
+> soon as possible with the following message:
+> 
+>   I reject your proposal to relicense {{{URI}}}.
+> 
+>   I give you permission to publish this message.
 
 To announce a result, send each contributor a message on the
 following template, again to all e-mail addresses and social
 media handles:
 
-```
-Subject: Contributor Council Announcement
-
-This is an relicensing announcement for a software project
-under the Contributor Council License.
-
-Project:
-
-  {{{URI}}}
-
-New Public License Terms:
-
-  [Insert new public license terms.]
-
-Major Contributors Approving:
-
-  [List major contributors who approved, and on what dates.]
-
-Major Contributors Rejecting:
-
-  [List major contributors who rejected, and on what dates.]
-
-Major Contributors Not Responding:
-
-  [List major contributors who did not respond, and which
-  e-mail addresses and social media accounts were attempted
-  for them.]
-
-Other Contributors Approving:
-
-  [List other contributors who approved, and on what dates.]
-
-Other Contributors Rejecting:
-
-  [List other contributors who rejected, and on what dates.]
-
-Other Contributors Not Responding:
-
-  [List other contributors who did not respond, and which
-  e-mail addresses and social media accounts were attempted
-  for them.] ```
+> Subject: Contributor Council Announcement
+> 
+> This is an relicensing announcement for a software project
+> under the Contributor Council License.
+> 
+> Project:
+> 
+>   {{{URI}}}
+> 
+> New Public License Terms:
+> 
+>   [Insert new public license terms.]
+> 
+> Major Contributors Approving:
+> 
+>   [List major contributors who approved, and on what
+>   dates.]
+> 
+> Major Contributors Rejecting:
+> 
+>   [List major contributors who rejected, and on what
+>   dates.]
+> 
+> Major Contributors Not Responding:
+> 
+>   [List major contributors who did not respond, and which
+>   e-mail addresses and social media accounts were
+>   attempted for them.]
+> 
+> Other Contributors Approving:
+> 
+>   [List other contributors who approved, and on what
+>   dates.]
+> 
+> Other Contributors Rejecting:
+> 
+>   [List other contributors who rejected, and on what
+>   dates.]
+> 
+> Other Contributors Not Responding:
+> 
+>   [List other contributors who did not respond, and which
+>   e-mail addresses and social media accounts were
+>   attempted for them.]
 
 ## Limit Liability
 
