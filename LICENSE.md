@@ -1,4 +1,4 @@
-# The Contributor Council License
+# The Contributor Council Cross-License [Development Draft]
 
 Project Location: {{{URI}}}
 
