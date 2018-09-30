@@ -13,7 +13,7 @@ their latest contribution, to every other past and future
 contributor.  Those licenses permit sublicensing to the
 public, any number of times, under the following rules.
 
-## Effect
+## Effects and Approvals Needed
 
 A contributor can sublicense for any of these purposes with
 majority approval:
@@ -65,21 +65,25 @@ as any social media handles they used to contribute:
 ```
 Subject: Contributor Council Proposal
 
-This is a proposal to relicense a software
-project under the Contributor Council License.
+This is a proposal to relicense a software project under the
+Contributor Council License.
 
-Project to be licensed:
+Project:
 
   {{{URI}}}
 
-New public license terms:
+New Public License Terms:
 
   [Insert new public license terms.]
 
-Effect of relicensing:
+Effect of Relicensing:
 
   [Describe the effect of relicensing, and which of the
   categories under the Effect section will be achieved.]
+
+Approval Needed:
+
+  ["Majority" or "Supermajority"]
 
 If you approve, please respond to this e-mail as soon as
 possible with the following message:
@@ -106,11 +110,11 @@ Subject: Contributor Council Announcement
 This is an relicensing announcement for a software project
 under the Contributor Council License.
 
-Project licensed:
+Project:
 
   {{{URI}}}
 
-New public license terms:
+New Public License Terms:
 
   [Insert new public license terms.]
 
@@ -125,8 +129,8 @@ Major Contributors Rejecting:
 Major Contributors Not Responding:
 
   [List major contributors who did not respond, and which
-  e-mail addresses and social media accounts were used for
-  them.]
+  e-mail addresses and social media accounts were attempted
+  for them.]
 
 Other Contributors Approving:
 
@@ -139,9 +143,8 @@ Other Contributors Rejecting:
 Other Contributors Not Responding:
 
   [List other contributors who did not respond, and which
-  e-mail addresses and social media accounts were used for
-  them.]
-```
+  e-mail addresses and social media accounts were attempted
+  for them.] ```
 
 ## Limit Liability
 
