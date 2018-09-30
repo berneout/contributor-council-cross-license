@@ -75,6 +75,53 @@ as possible with the following message:
   I give you permission to publish this message.
 ```
 
+To announce a result, send each contributor a message on the
+following form, again to all e-mail addresses and social
+media handles:
+
+```
+Subject: Contributor Council Announcement
+
+This is an relicensing announcement for a software project
+under the Contributor Council License.
+
+Project licensed:
+
+  {{{uri}}}
+
+New public license terms:
+
+  [Insert new public license terms.]
+
+Major Contributors Approving:
+
+  [List major contributors who approved, and on what dates.]
+
+Major Contributors Rejecting:
+
+  [List major contributors who rejected, and on what dates.]
+
+Major Contributors Not Responding:
+
+  [List major contributors who did not respond, and which
+  e-mail addresses and social media accounts were used for
+  them.]
+
+Other Contributors Approving:
+
+  [List other contributors who approved, and on what dates.]
+
+Other Contributors Rejecting:
+
+  [List other contributors who rejected, and on what dates.]
+
+Other Contributors Not Responding:
+
+  [List other contributors who did not respond, and which
+  e-mail addresses and social media accounts were used for
+  them.]
+```
+
 ## Limit Liability
 
 The new public license terms must disclaim all warranties
